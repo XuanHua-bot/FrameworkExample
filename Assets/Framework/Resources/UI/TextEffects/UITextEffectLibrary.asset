@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b9c0ccfdc274a2c9f8d5f1e9c1e7d32, type: 3}
+  m_Name: UITextEffectLibrary
+  m_EditorClassIdentifier: 
+  mBindings:
+  - Id: fade_in
+    Effects:
+    - {fileID: 11400000, guid: 1a2b3c4d5e6f4789a0b1c2d3e4f56780, type: 2}
+  - Id: scale_in
+    Effects:
+    - {fileID: 11400000, guid: 2b3c4d5e6f7a4890b1c2d3e4f567801a, type: 2}
+  - Id: typewriter
+    Effects:
+    - {fileID: 11400000, guid: 5f2e2a144d5b7ec4fac0d3a84b08a3d8, type: 2}
+  - Id: idle_shake
+    Effects:
+    - {fileID: 11400000, guid: 3c4d5e6f7a8b4901b2c3d4e5f678012b, type: 2}
+  - Id: idle_float
+    Effects:
+    - {fileID: 11400000, guid: 4d5e6f7a8b9c4012b3c4d5e6f789012c, type: 2}
+  - Id: idle_rotate
+    Effects:
+    - {fileID: 11400000, guid: 91d4e3f2a1b0456789abcdef01234567, type: 2}
+  - Id: idle_wave
+    Effects:
+    - {fileID: 11400000, guid: b3f60504c3d26789abcdef0123456789, type: 2}
+  - Id: color_pulse
+    Effects:
+    - {fileID: 11400000, guid: a2e5f4f3b2c156789abcdef012345678, type: 2}
+  - Id: highlight_rare
+    Effects:
+    - {fileID: 11400000, guid: a2e5f4f3b2c156789abcdef012345678, type: 2}
+    - {fileID: 11400000, guid: 91d4e3f2a1b0456789abcdef01234567, type: 2}
+  - Id: highlight_warning
+    Effects:
+    - {fileID: 11400000, guid: a2e5f4f3b2c156789abcdef012345678, type: 2}
+    - {fileID: 11400000, guid: 3c4d5e6f7a8b4901b2c3d4e5f678012b, type: 2}
+  - Id: heartbeat
+    Effects:
+    - {fileID: 11400000, guid: 10eb5a190827cdef0123456789012345, type: 2}
+  - Id: bounce
+    Effects:
+    - {fileID: 11400000, guid: 21fc6b2a1938def01234567890123456, type: 2}
+  - Id: rainbow
+    Effects:
+    - {fileID: 11400000, guid: 32ad7c3b2a49ef012345678901234567, type: 2}
+  - Id: jitter
+    Effects:
+    - {fileID: 11400000, guid: 43be8d4c3b5a01234567890123456789, type: 2}
+  - Id: reward_legendary
+    Effects:
+    - {fileID: 11400000, guid: 10eb5a190827cdef0123456789012345, type: 2}
+    - {fileID: 11400000, guid: 32ad7c3b2a49ef012345678901234567, type: 2}
+  - Id: shine_sweep
+    Effects:
+    - {fileID: 11400000, guid: b2f73d5cae2149b7c4d80a03f6e9b221, type: 2}
+  - Id: glitch_burst
+    Effects:
+    - {fileID: 11400000, guid: b2f73d5cae2149b7c4d80a03f6e9b222, type: 2}
+  - Id: charge_strike
+    Effects:
+    - {fileID: 11400000, guid: eb85d09aac391024f99a423c2d7e8e61, type: 2}
+  - Id: pulse_scanner
+    Effects:
+    - {fileID: 11400000, guid: 596a178f32759b5469c496917e1e30dc, type: 2}
+  - Id: pop_in
+    Effects:
+    - {fileID: 11400000, guid: 4990cb4a9804fc9429dda22b8b9fb89b, type: 2}
+  - Id: spin_drop
+    Effects:
+    - {fileID: 11400000, guid: d87d00035f856ef42b95ecf026c65b8d, type: 2}
+  - Id: flip_in
+    Effects:
+    - {fileID: 11400000, guid: a694a20cc52d8e74d8a1b1e5df14f62b, type: 2}
+  - Id: fly_in
+    Effects:
+    - {fileID: 11400000, guid: 7e4dfcff0fc3f104ab18fb85342e2c2a, type: 2}
+  - Id: shatter_snap
+    Effects:
+    - {fileID: 11400000, guid: d6f55e76dca1d1041937c02b6833ae70, type: 2}
+  - Id: glitch_slice
+    Effects:
+    - {fileID: 11400000, guid: 6448150d9b5ebf14daa2e24dc32f1539, type: 2}
+  - Id: gradient_flow
+    Effects:
+    - {fileID: 11400000, guid: 4ba61aa7171c4f74a879b6b80c6d5785, type: 2}

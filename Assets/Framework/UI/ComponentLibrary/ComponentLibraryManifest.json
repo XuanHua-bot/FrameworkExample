@@ -1,0 +1,264 @@
+{
+  "sourceScene": "Assets/Framework/UI/ComponentLibrary/Concave",
+  "rule": "One base-color prefab per structural or semantic variant used by the Concave scene",
+  "entries": [
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Popup/Bottom Bar/Bottom Bar - Concave.prefab",
+      "prefab": "Containers/Popups/Bottom Bar - Concave.prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Popup/Bottom Bar/Bottom Bar.prefab",
+      "prefab": "Containers/Popups/Bottom Bar.prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Popup/Modules/Popup - Scroll View - List (Auto Size)/Popup - Scroll View - List (Auto Size).prefab",
+      "prefab": "Containers/Popups/Popup - Scroll View - List (Auto Size).prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Popup/Modules/Popup (Auto Window Size)/Popup - Size Fitter.prefab",
+      "prefab": "Containers/Popups/Popup - Size Fitter.prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Popup/Base/Popup Base - Concave.prefab",
+      "prefab": "Containers/Popups/Popup Base - Concave.prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Popup/Base/Popup Base.prefab",
+      "prefab": "Containers/Popups/Popup Base.prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Button/Filled (Demo)/Button - Filled With Border.prefab",
+      "prefab": "Controls/Buttons/Button - Filled With Border.prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Checkbox/Filled With Outline/Checkbox - Filled.prefab",
+      "prefab": "Controls/Checkboxes/Checkbox - Filled.prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Checkbox/Filled With Outline - With Label/Checkbox - With label.prefab",
+      "prefab": "Controls/Checkboxes/Checkbox - With label.prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Checkbox/Outline/Checkbox- Outline.prefab",
+      "prefab": "Controls/Checkboxes/Checkbox- Outline.prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Dropdown/Basic/Dropdown - Basic.prefab",
+      "prefab": "Controls/Dropdowns/Dropdown - Basic.prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Dropdown/Narrow/Dropdown - Narrow.prefab",
+      "prefab": "Controls/Dropdowns/Dropdown - Narrow.prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Input Field/Multiline (Outline)/Input Field - Multiline (Outline).prefab",
+      "prefab": "Controls/InputFields/Input Field - Multiline (Outline).prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Input Field/Multiline (With Auto Scrollbar)/Input Field - Multiline With Scrollbar.prefab",
+      "prefab": "Controls/InputFields/Input Field - Multiline With Scrollbar.prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Input Field/List/Input List Group (With Icons).prefab",
+      "prefab": "Controls/InputFields/Input List Group (With Icons).prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Input Field/Multiline - Auto Rezise/InputField - Auto Resize.prefab",
+      "prefab": "Controls/InputFields/InputField - Auto Resize.prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Input Field/Single (No Background)/InputField - Single (With Icon).prefab",
+      "prefab": "Controls/InputFields/InputField - Single (With Icon, No Background).prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Input Field/Single/InputField - Single (With Icon).prefab",
+      "prefab": "Controls/InputFields/InputField - Single (With Icon).prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Input Field/Single (No Background)/InputField - Single.prefab",
+      "prefab": "Controls/InputFields/InputField - Single.prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Scrollbar/Scrollbar - Concave - Vertical.prefab",
+      "prefab": "Controls/Scrollbars/Scrollbar - Concave - Vertical.prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Scrollbar/Scrollbar.prefab",
+      "prefab": "Controls/Scrollbars/Scrollbar.prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Selection Slider/Loopable/Basic/Selection Slider - Loopable - (No Background).prefab",
+      "prefab": "Controls/SelectionSliders/Selection Slider - Loopable - (No Background).prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Selection Slider/Loopable/Basic (Background)/Selection Slider - Loopable (Background).prefab",
+      "prefab": "Controls/SelectionSliders/Selection Slider - Loopable (Background).prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Selection Slider/Loopable/Narrow (Without Counter)/Selection Slider - Narrow (Without Counter).prefab",
+      "prefab": "Controls/SelectionSliders/Selection Slider - Narrow (Without Counter).prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Selection Slider/Non-Loopable/Selection Slider - Non-Loopable.prefab",
+      "prefab": "Controls/SelectionSliders/Selection Slider - Non-Loopable.prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Slider/Basic/Slider - Basic.prefab",
+      "prefab": "Controls/Sliders/Slider - Basic.prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Slider/Handle with Value/Slider - Center (Decimal Number).prefab",
+      "prefab": "Controls/Sliders/Slider - Center (Decimal Number).prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Slider/Handle with Value/Slider - Center (Percent Number - Visible on Rollover).prefab",
+      "prefab": "Controls/Sliders/Slider - Center (Percent Number - Visible on Rollover).prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Slider/Speech/Slider - Center Speech (No Percent).prefab",
+      "prefab": "Controls/Sliders/Slider - Center Speech (No Percent).prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Slider/Clamped/Slider - Clamped (Whole Number).prefab",
+      "prefab": "Controls/Sliders/Slider - Clamped (Whole Number).prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Slider/Clamped With Lines/Slider - Gradient - Clamped With Lines.prefab",
+      "prefab": "Controls/Sliders/Slider - Gradient - Clamped With Lines.prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Switch/Filled - Gradient/Switch - Filled - Gradient.prefab",
+      "prefab": "Controls/Switches/Switch - Filled - Gradient.prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Switch/Filled - (Outline Inactive)/Switch - Filled (Outline Inactive).prefab",
+      "prefab": "Controls/Switches/Switch - Filled (Outline Inactive).prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Switch/Filled Whith Border/Switch - Filled With Border.prefab",
+      "prefab": "Controls/Switches/Switch - Filled With Border.prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Switch/Filled/Switch - Filled.prefab",
+      "prefab": "Controls/Switches/Switch - Filled.prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Switch/Outline - Gradient/Switch - Outline Gradient.prefab",
+      "prefab": "Controls/Switches/Switch - Outline Gradient.prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Switch/Outline Whith Icon/Switch - Outline Whith Icon.prefab",
+      "prefab": "Controls/Switches/Switch - Outline Whith Icon.prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Switch/Outline/Switch - Outline.prefab",
+      "prefab": "Controls/Switches/Switch - Outline.prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Switch/Static (Unity UI)/Switch - Static (Unity UI).prefab",
+      "prefab": "Controls/Switches/Switch - Static (Unity UI).prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Switch/Filled - Gradient (Outline Inactive)/Switch Filled - Gradient (Outline Inactive).prefab",
+      "prefab": "Controls/Switches/Switch Filled - Gradient (Outline Inactive).prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Toggle/Basic - Filled and Outline/Toggle - Basic - Filled And Outline.prefab",
+      "prefab": "Controls/Toggles/Toggle - Basic - Filled And Outline.prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Toggle/Basic - Outline/Toggle - Basic - Outline -Brown.prefab",
+      "prefab": "Controls/Toggles/Toggle - Basic - Outline -Brown.prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Toggle/Basic - Outline/Toggle - Basic - Outline.prefab",
+      "prefab": "Controls/Toggles/Toggle - Basic - Outline.prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Toggle/Multi-Select/Toggle - Multi-Select (Image).prefab",
+      "prefab": "Controls/Toggles/Toggle - Multi-Select (Image).prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Toggle/Multi-Select/Toggle - Multi-Select (Text).prefab",
+      "prefab": "Controls/Toggles/Toggle - Multi-Select (Text).prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Notifications/Notification - Concave (Outline) - Alert.prefab",
+      "prefab": "Feedback/Notifications/Notification - Concave (Outline) - Alert.prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Notifications/Notification - Concave (Outline) - Info.prefab",
+      "prefab": "Feedback/Notifications/Notification - Concave (Outline) - Info.prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Notifications/Notification - Concave (Outline) - Success.prefab",
+      "prefab": "Feedback/Notifications/Notification - Concave (Outline) - Success.prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Notifications/Notification - Concave (Outline) - Warning.prefab",
+      "prefab": "Feedback/Notifications/Notification - Concave (Outline) - Warning.prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Notifications/Notification - Concave (Outline).prefab",
+      "prefab": "Feedback/Notifications/Notification - Concave (Outline).prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Tooltip/Arrow - Classic.prefab",
+      "prefab": "Feedback/Tooltips/Arrow - Classic.prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Tooltip/Tooltip - Bottom.prefab",
+      "prefab": "Feedback/Tooltips/Tooltip - Bottom.prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Tooltip/Tooltip - Left.prefab",
+      "prefab": "Feedback/Tooltips/Tooltip - Left.prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Tooltip/Tooltip - Right.prefab",
+      "prefab": "Feedback/Tooltips/Tooltip - Right.prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Tooltip/Tooltip - Top.prefab",
+      "prefab": "Feedback/Tooltips/Tooltip - Top.prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Tooltip/Tooltip.prefab",
+      "prefab": "Feedback/Tooltips/Tooltip.prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Background/Background.prefab",
+      "prefab": "Foundations/Backgrounds/Background.prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Progress Bar/Rectangular/Colors/Progress Bar - Colors.prefab",
+      "prefab": "Indicators/ProgressBars/Progress Bar - Colors.prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Progress Bar/Rectangular/Basic/Progress Bar.prefab",
+      "prefab": "Indicators/ProgressBars/Progress Bar.prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Progress Bar/Radial/Filled - Horizontal/Radial Progress Bar - Filled - Horizontal.prefab",
+      "prefab": "Indicators/ProgressBars/Radial Progress Bar - Filled - Horizontal.prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Progress Bar/Radial/Filled - Radial (Half)/Radial Progress Bar - Filled - Radial (Half).prefab",
+      "prefab": "Indicators/ProgressBars/Radial Progress Bar - Filled - Radial (Half).prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Progress Bar/Radial/Filled - Radial/Radial Progress Bar - Filled - Radial.prefab",
+      "prefab": "Indicators/ProgressBars/Radial Progress Bar - Filled - Radial.prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Progress Bar/Radial/Filled - Vertical/Radial Progress Bar - Filled - Vertical.prefab",
+      "prefab": "Indicators/ProgressBars/Radial Progress Bar - Filled - Vertical.prefab"
+    },
+    {
+      "source": "Themes/Classic/Prefabs/UI Elements/Progress Bar/Radial/Outline - Radial/Radial Progress Bar - Outline - Radial.prefab",
+      "prefab": "Indicators/ProgressBars/Radial Progress Bar - Outline - Radial.prefab"
+    }
+  ],
+  "dependencyPrefabCount": 3,
+  "scriptCount": 21
+}

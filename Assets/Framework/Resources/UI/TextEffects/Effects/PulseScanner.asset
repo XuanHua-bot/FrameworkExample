@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de9816b8be4627345aff654275ebc5e0, type: 3}
+  m_Name: PulseScanner
+  m_EditorClassIdentifier: 
+  mDuration: 1.2
+  mCurve:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  mDimColor: {r: 0.34, g: 0.39, b: 0.5, a: 1}
+  mDimAmount: 0.9
+  mDimShrink: 0.08
+  mLockedColor: {r: 0.88, g: 0.95, b: 1, a: 1}
+  mLockedAmount: 0.5
+  mHeadWidth: 0.08
+  mPopScale: 0.35
+  mPopOffset: 8

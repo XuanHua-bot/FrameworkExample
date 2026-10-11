@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6c93837f6059abcdef0123456789012, type: 3}
+  m_Name: Rainbow
+  m_EditorClassIdentifier: Assembly-CSharp:GameFramework:UITextRainbowEffect
+  mDuration: 2
+  mCurve:
+    serializedVersion: 2
+    m_Curve: []
+  mCycles: 2
+  mCharacterOffset: 0.08

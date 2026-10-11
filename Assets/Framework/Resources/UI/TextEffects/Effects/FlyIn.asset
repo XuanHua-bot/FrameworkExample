@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4bf5fddccdbfb354e81273dbf4fdbce7, type: 3}
+  m_Name: FlyIn
+  m_EditorClassIdentifier: 
+  mDuration: 0.35
+  mCurve:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  mCharacterDelay: 0.04
+  mScatterRadius: 90
+  mStartRotation: 200
+  mRadiusJitter: 0.5
+  mArriveRatio: 0.75
+  mOvershoot: 0.14

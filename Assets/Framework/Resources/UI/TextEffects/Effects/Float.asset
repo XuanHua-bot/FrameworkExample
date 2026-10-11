@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94dabaf5e9157f32c7da0415c6389b14, type: 3}
+  m_Name: Float
+  m_EditorClassIdentifier: Assembly-CSharp:GameFramework:UITextFloatEffect
+  mDuration: 0.94
+  mCurve:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  mAmplitude: 9.52
+  mFrequency: 1.22
+  mCharacterOffset: 0

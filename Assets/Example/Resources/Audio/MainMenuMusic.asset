@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b9fc12ba9d64ca595b647fee4d6d5a6, type: 3}
+  m_Name: MainMenuMusic
+  m_EditorClassIdentifier: 
+  mEntries:
+  - Id: Pokemon
+    Bus: 0
+    Clip: {fileID: 8300000, guid: 0c0322809b3c36c499235fb3a1bb98a0, type: 3}
+    Volume: 1
+  - Id: SilentHill
+    Bus: 0
+    Clip: {fileID: 8300000, guid: e83b4c1c908bcd64ca74a3f872be3a77, type: 3}
+    Volume: 1

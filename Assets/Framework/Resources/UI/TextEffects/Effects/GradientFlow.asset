@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c643346b736af5b4b8a9113a7b41d8ca, type: 3}
+  m_Name: GradientFlow
+  m_EditorClassIdentifier: 
+  mDuration: 2.4
+  mCurve:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  mColors:
+  - {r: 1, g: 0.78, b: 0.28, a: 1}
+  - {r: 1, g: 0.42, b: 0.32, a: 1}
+  - {r: 0.92, g: 0.35, b: 0.85, a: 1}
+  - {r: 0.38, g: 0.55, b: 1, a: 1}
+  - {r: 0.28, g: 0.92, b: 0.85, a: 1}
+  mSpread: 0.85
+  mSpeed: 0.65
+  mVerticalShift: 0.12
+  mReverse: 0
